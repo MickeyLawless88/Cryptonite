@@ -1,8 +1,8 @@
 # CRYPTONITE v2.0 - File Encryption Utility
 
 **Author:** Mickey L.  
-**Date:** June 27, 2021  
-**Platform:** DOS / BASIC
+**Date:** June 27, 2025  
+**Platform:** Microsoft Compiled BASIC ( CP/M )
 
 ---
 
