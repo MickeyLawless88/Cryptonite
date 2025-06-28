@@ -1,0 +1,21 @@
+
+
+
+
+Microsoft BASIC Compiler
+For MS-DOS
+
+Release 5.36 Update Notice
+April 24, 1984
+
+
+The following correction was made over version 5.35:
+
+* PROBLEM: When a file was OPENed in APPEND mode, the end-
+of-file mark was correctly found.  However, if the end-of-
+file mark appeared in a partially filled block, all data in
+that block, prior to the end-of-file mark, was cleared.
+
+* SOLUTION: When the end-of-file mark is found, the data
+prior to the mark is kept intact and the new data is
+appended at the end-of-file mark.
